@@ -1,4 +1,17 @@
 .bashrc
 .bash_logout
 .profiel
-.
+.bash_history
+        .cache/
+        .codeoss/
+        .config/
+        .docker/
+        .gitconfig
+        .local/
+        .npm/
+        .profile
+        .rustup/
+        .ssh/
+        .sudo_as_admin_successful
+        .vscode/
+        README-cloudshell.txt.
